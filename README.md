@@ -1,7 +1,6 @@
 # python-project-template
 GitHub Template Repository (Structure)
 
-'''
 python-project-template/
 ├── .vscode/
 │   └── settings.json
@@ -20,4 +19,3 @@ python-project-template/
 ├── pyproject.toml
 ├── README.md
 └── create_project.py
-'''
